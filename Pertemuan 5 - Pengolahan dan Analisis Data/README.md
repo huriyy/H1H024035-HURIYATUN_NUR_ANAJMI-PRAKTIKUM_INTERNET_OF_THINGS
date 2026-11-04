@@ -4,6 +4,8 @@
 ### 1. Diagram Alur (Flowchart) Fungsi `hitungMovingAverage()`
 Berikut adalah bagan alir proses perhitungan Moving Average pada fungsi `hitungMovingAverage()` di ESP32:
 
+<img width="198" height="463" alt="Screenshot 2026-11-05 002335" src="https://github.com/user-attachments/assets/85586437-1925-4be4-895d-2859b1835f20" />
+
 ---
 
 ### 2. Jelaskan fungsi dari operasi `(indeks + 1) % N` pada program!
