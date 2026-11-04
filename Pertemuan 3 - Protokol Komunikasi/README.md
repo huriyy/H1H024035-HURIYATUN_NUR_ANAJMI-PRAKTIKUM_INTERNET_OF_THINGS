@@ -1,5 +1,7 @@
-<img width="327" height="424" alt="Screenshot 2026-11-05 000212" src="https://github.com/user-attachments/assets/8fdc8004-3d2b-4d3c-b3f7-bf44083257d9" />
+
 ## Percobaan 3A: Komunikasi Data Menggunakan HTTP
+
+<img width="327" height="424" alt="Screenshot 2026-11-05 000212" src="https://github.com/user-attachments/assets/8fdc8004-3d2b-4d3c-b3f7-bf44083257d9" />
 
 ### 1. Diagram Alur (Flowchart) Pengiriman Data HTTP POST
 Berikut adalah diagram alur proses pengiriman data melalui HTTP POST:
