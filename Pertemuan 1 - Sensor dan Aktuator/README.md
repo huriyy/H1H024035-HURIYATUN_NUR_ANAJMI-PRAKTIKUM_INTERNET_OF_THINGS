@@ -2,6 +2,7 @@
 
 ### 1. Diagram Alur (Flowchart) Akuisisi Data Sensor DHT22
 Berikut adalah gambaran alur proses pembacaan data sensor:
+
 <img width="408" height="245" alt="Screenshot 2026-11-04 233333" src="https://github.com/user-attachments/assets/c475b593-06f8-403a-9c34-7f64e27280d1" />
 
 
