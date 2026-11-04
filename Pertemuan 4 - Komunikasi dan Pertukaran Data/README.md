@@ -1,8 +1,10 @@
+
 ## Percobaan 4A: Subscribe dan Deserialisasi Data JSON untuk Kendali Aktuator
 
 ### 1. Diagram Alur (Flowchart) Penerimaan dan Pemrosesan Pesan pada Callback
 Berikut adalah diagram alur logika pemrosesan pesan masuk pada fungsi `callback`:
 
+<img width="626" height="423" alt="Screenshot 2026-11-05 001044" src="https://github.com/user-attachments/assets/52120445-695c-4afa-89df-ce056d2671ee" />
 ---
 
 ### 2. Dampak Jika Pesan yang Dipublikasikan Bukan Format JSON Valid
