@@ -2,6 +2,8 @@
 
 ### 1. Diagram Alur (Flowchart) Koneksi ESP32 Mode Station (STA)
 
+<img width="269" height="236" alt="Screenshot 2026-11-04 235118" src="https://github.com/user-attachments/assets/43d248b0-d982-49cd-abd0-3a4f3331851e" />
+
 ### 2. Fungsi Perintah `WiFi.mode(WIFI_STA)`
 
 Perintah `WiFi.mode(WIFI_STA)` berfungsi mengonfigurasi modul WiFi ESP32 agar beroperasi secara khusus sebagai **Station (klien)**. Dalam mode ini, ESP32 bertindak layaknya laptop atau HP yang mencari dan terhubung ke jaringan nirkabel eksternal (router/hotspot) guna mendapatkan akses data atau internet.
